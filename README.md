@@ -16,3 +16,4 @@ casts, err := client.GetCasts()
 ```
 
 You can also build and execute the `http.Request` yourself using the `github.com/alphaticks/go-farcaster/api` package
+.
